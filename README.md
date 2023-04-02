@@ -8,12 +8,22 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hungle14/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
+      src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=blue&&style=for-the-badge"
     />
   </a>
   <a href="https://join.skype.com/invite/k5rUQBq5Jo27" target="_blank">
     <img
-      src="https://img.shields.io/badge/-Skype-white?logo=skype&logoColor=blue&style=for-the-badge"
+      src="https://img.shields.io/badge/Skype-white?logo=skype&style=for-the-badge"
+    />
+  </a>
+  <a href="https://www.facebook.com/liyongxingg/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Facebook-white?logo=facebook&style=for-the-badge"
+    />
+  </a>
+  <a href="https://www.instagram.com/liyongxingg/?hl=en" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-white?logo=instagram&style=for-the-badge"
     />
   </a>
 </div>
