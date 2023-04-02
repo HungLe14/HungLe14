@@ -40,7 +40,7 @@
 
 ---
 
-### 👨‍💻 Something about me:
+### 👨‍💻 A few things about me:
 - 🔭 I’m working as a Frontend Developer and contributing to frontend and backend also for building web applications.
 - 🥇 Focused on creating a modern, responsive, highly interactive single-page applications using Javascript stack
 - 🥈 Solid ability to support, and motivate team members
