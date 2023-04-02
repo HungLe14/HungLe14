@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
-    width="200"
-    height="150"
+    src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"
+    width="400"
+    height="200"
   />
 </div>
 <div id="badges" align="center">
