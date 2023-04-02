@@ -41,8 +41,8 @@
 ---
 
 ### 👨‍💻 A few things about me:
-- 🔭 I’m working as a Frontend Developer and contributing to frontend and backend also for building web applications.
-- 🥇 Focused on creating a modern, responsive, highly interactive single-page applications using Javascript stack
+- 🔭 I’m working as a Frontend Developer and contributing to frontend and backend for building web applications.
+- 🥇 Focused on creating a modern, responsive, highly interactive single-page applications using Javascript stacks
 - 🥈 Solid ability to support, and motivate team members
 - 🥉 Creative problem solver, eager to deliver solutions and hungry for new technologies
 
