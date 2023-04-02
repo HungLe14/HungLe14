@@ -16,13 +16,11 @@
       src="https://img.shields.io/badge/-Skype-white?logo=skype&logoColor=blue&style=for-the-badge"
     />
   </a>
-  <div />
 </div>
-<div>
+<div id="preview-badge" align="center">
   <img src="https://komarev.com/ghpvc/?username=hungle14&style=flat-square&color=orange" alt=""/>
-  <div />
 </div>
-<h1>
+<h1 align="center">
   Hi, I'm Harry 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -33,3 +31,10 @@
 ---
 
 ### 👨‍💻 Something about me:
+- 🔭 I’m working as a Frontend Developer and contributing to frontend and backend also for building web applications.
+- 🥇 Focused on creating a modern, responsive, highly interactive single-page applications using Javascript stack
+- 🥈 Strong knowledge/working experiences of Web development and Frontend Development
+- 🥉 Solid knowledge of JavaScript/TypeScript
+- 🕵️ Solid ability to support, and motivate team members
+- 🔦 Creative problem solver, eager to deliver solutions and hungry for new technologies
+
